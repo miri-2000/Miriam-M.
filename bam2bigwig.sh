@@ -13,7 +13,7 @@ mkdir -p $output_directory
 log_file=${output_directory}/log_file.txt
 touch $log_file
 
-#conda create --name bam2bigwig
+conda create --name bam2bigwig deeptools samtools
 conda activate bam2bigwig
 echo "Begin conversion process" > $log_file
 for file in $(ls temp_dir/*.bam); do
