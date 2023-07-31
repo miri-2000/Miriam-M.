@@ -1,5 +1,3 @@
-#miri
+#Welcome to my Github repository! Here you can see the things I am working on:
 
-#Roses are red, violets are blue, Github is cool if you have a clue what to do.
 
-![alt text](https://github.com/miri-2000/miri/blob/main/Download.jpg)
